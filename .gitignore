@@ -1,0 +1,35 @@
+# Python cache and environment
+__pycache__/
+*.py[cod]
+.env/
+.venv/
+
+# Jupyter and Colab
+.ipynb_checkpoints
+*.ipynb~
+
+# OS and IDE files
+.DS_Store
+.idea/
+.vscode/
+
+# Data and logs
+*.csv
+*.log
+*.npy
+*.npz
+*.pkl
+
+# Latex intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.pdf
